@@ -117,7 +117,6 @@ int main(int argc, char *argv[]){
                 default:
                     printf("ERROR: Вы указали неверные параметры для формирования алфавита -abc\n");
                     return 1;
-                    break;
                 }
             }
             abc++;
